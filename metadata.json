@@ -1,0 +1,6 @@
+{
+  "name": "Aura Capsule",
+  "description": "Offline glassmorphic floating capsule music player with waveform visualizer, swipe gestures, and home screen pinning",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
